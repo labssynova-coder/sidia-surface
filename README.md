@@ -6,6 +6,32 @@
 
 **[https://labssynova-coder.github.io/sidia-surface/](https://labssynova-coder.github.io/sidia-surface/)**
 
+## 📸 Screenshots
+
+### Desktop
+
+| Section | Screenshot |
+|---|---|
+| Hero | ![Hero](screenshots/hero.png) |
+| À propos | ![About](screenshots/about.png) |
+| Services | ![Services](screenshots/services.png) |
+| Projet phare | ![Featured Project](screenshots/featured-project.png) |
+| Projets | ![Projects](screenshots/projects.png) |
+| Pourquoi nous | ![Why Us](screenshots/why-us.png) |
+| Galerie | ![Gallery](screenshots/gallery.png) |
+| Contact | ![Contact](screenshots/contact.png) |
+
+### Mobile
+
+| Section | Screenshot |
+|---|---|
+| Hero (mobile) | ![Mobile Hero](screenshots/mobile-hero.png) |
+| Full page (mobile) | ![Mobile Full Page](screenshots/mobile-full-page.png) |
+
+### Full Page (Desktop)
+
+![Full Page](screenshots/full-page.png)
+
 ## Overview
 
 Corporate single-page website for SIDIA SURFACE, a real estate development and construction company based in Béjaïa, Algeria.
